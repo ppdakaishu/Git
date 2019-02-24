@@ -6,6 +6,7 @@ public class LearnAboutGit {
 		System.out.println("Learn About Git and GitHub");
 		System.out.println("Resolve the conflict Test... personOne");
 		System.out.println("Resolve the conflict Test... personTwo fix");
+		System.out.println("hot_fix test");
 	}
 
 }
