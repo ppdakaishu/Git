@@ -7,5 +7,7 @@ public class LearnAboutGit {
 		System.out.println("Resolve the conflict Test... personOne");
 		System.out.println("Resolve the conflict Test... personTwo fix");
 		System.out.println("hot_fix test");
-	}
+		System.out.println("hot_fix test... personTwo");
+	} 
+
 }
